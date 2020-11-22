@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/DockerTest
+/DockerTest/bin/Debug/netcoreapp3.1
+/DockerTest/obj/Container
+/DockerTest/obj/Debug/netcoreapp3.1/staticwebassets
+/DockerTest/obj
